@@ -25,20 +25,6 @@
 
 ---
 
-### 🌱 What I’m Learning
-- Efficient LLM retrieval and reasoning pipelines  
-- Quantum circuit rewriting and optimization  
-- Building scalable, low-latency AI services  
-
----
-
-### 🧩 Experience Highlights
-- **Macrovision-ENGIS:** Deployed CUDA-accelerated LLM pipelines (FAISS + Ollama), reducing chatbot latency by **50%**.  
-- **University of Waterloo KSA:** Led full-stack team building verification platform (HTML/CSS/JS + SQLite), cutting processing time **50%** and improving accuracy **150%**.  
-- **IQC Collaboration:** Co-developing transformer-based quantum optimizer with postdoctoral researcher for potential conference publication.  
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   📧 <a href="mailto:d67kim@uwaterloo.ca">d67kim@uwaterloo.ca</a><br>
