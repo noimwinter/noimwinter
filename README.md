@@ -28,11 +28,5 @@
 ### 🤝 Connect with Me
 <p align="left">
   📧 <a href="mailto:d67kim@uwaterloo.ca">d67kim@uwaterloo.ca</a><br>
-  🌐 <a href="https://linkedin.com/in/dohyun-kim-keppy/">LinkedIn</a> • 
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noimwinter&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />  
+  🌐 <a href="https://linkedin.com/in/dohyun-kim-keppy/">LinkedIn</a>
 </p>
