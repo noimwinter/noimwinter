@@ -43,7 +43,6 @@
 <p align="left">
   📧 <a href="mailto:d67kim@uwaterloo.ca">d67kim@uwaterloo.ca</a><br>
   🌐 <a href="https://linkedin.com/in/dohyun-kim-keppy/">LinkedIn</a> • 
-  💻 <a href="https://github.com/Sc5pe">GitHub</a>
 </p>
 
 ---
