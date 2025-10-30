@@ -33,11 +33,6 @@
 
 ---
 
-### ⚡ Fun Fact
-When I’m not debugging neural networks or circuit simulators, I’m probably designing new AI tools that make complex tech simple, beautiful, and useful 💡
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sc5pe&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=noimwinter&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />  
 </p>
