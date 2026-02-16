@@ -20,7 +20,7 @@
 
 ### 🧰 Tech Stack
 **Languages:** C, C++, Python, Java, JavaScript, Swift, Bash  
-**AI / ML:** PyTorch, TensorFlow, Keras, FAISS, LangChain, Qiskit, CUDA, RAG  
+**AI / ML:** PyTorch, TensorFlow, Keras, FAISS, LangChain, Qiskit, PennyLane, CUDA, RAG  
 **Web & Cloud:** React, FastAPI, Node.js, PostgreSQL, Oracle Cloud, GCP, Azure  
 **Hardware / ISA:** RISC-V, VHDL  
 
