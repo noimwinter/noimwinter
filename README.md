@@ -11,9 +11,10 @@
 ---
 
 ### 🚀 Current Projects
-- 🧩 **Quantum Circuit Optimization Transformer** – PyTorch model that rewrites quantum circuits into shorter, equivalent forms (~30% complexity reduction).  
-- 💬 **Google Chrome AI Summarizer Hackathon** – Chrome extension using on-device AI APIs to summarize, visualize, and generate quizzes for web content.  
-- ⚙️ **LLM Automation System** – CUDA-accelerated chatbot pipeline (FAISS + RAG + Ollama) deployed for Korean government research associations.  
+- **Quantum Circuit Optimization Transformer** – PyTorch model that rewrites quantum circuits into shorter, equivalent forms (~30% complexity reduction).
+- **Pauli-Propagation Surrogate Reinforcement Learning - A surrogate model that uses QAOA to solve maxcut problems and calculate appromixate expectation value.
+- **Google Chrome AI Summarizer Hackathon** – Chrome extension using on-device AI APIs to summarize, visualize, and generate quizzes for web content.  
+- **LLM Automation System** – CUDA-accelerated chatbot pipeline (FAISS + RAG + Ollama) deployed for Korean government research associations.  
 
 ---
 
