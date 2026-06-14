@@ -1,6 +1,6 @@
 <!-- README.md for github.com/Sc5pe -->
 
-<h2 align="center">👋 Hi, I'm Keppy (Dohyun Kim)</h2>
+<h2 align="center">👋 Hi, I'm Dohyun Kim</h2>
 
 <p align="center">
   🎓 Computer Engineering @ <b>University of Waterloo</b><br>
